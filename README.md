@@ -28,3 +28,5 @@ curl -X POST http://localhost:8081/chaos/stop
 
 then verify:
 curl -i http://localhost:8081/
+
+Ip address: 184.72.88.235:8080
